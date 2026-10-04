@@ -1,0 +1,12 @@
+{
+  "fit_seconds": 0.39300060000000003,
+  "predict_seconds": 0.012423400000000001,
+  "model_size_bytes": 7116,
+  "batch_rows": 3000,
+  "fit_repeats": 3,
+  "predict_repeats": 3,
+  "warmup_rows": 32,
+  "score_at_reference": 0.7,
+  "final_predict_seconds": 0.024868464,
+  "final_batch_rows": 6000
+}
