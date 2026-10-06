@@ -6,7 +6,7 @@
   "fit_repeats": 3,
   "predict_repeats": 3,
   "warmup_rows": 32,
-  "score_at_reference": 0.7,
+  "score_at_reference": 1.0,
   "final_predict_seconds": 0.022651458,
   "final_batch_rows": 6000,
   "feature_count": 10
